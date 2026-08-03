@@ -2,7 +2,7 @@
 
 **Lead Analyst:** Shawn Canty
 
-**Date:** August 2026
+**Date:** June 2026
 
 ### 1. Business Context & Objective
 Cyclistic, a leading Chicago bike-share network, relies on annual memberships as its main driver of long-term profitability. The Director of Marketing aims to maximize Annual Recurring Revenue (ARR) by converting existing "Casual" riders into "Annual Members" rather than investing heavily in new customer acquisition.
