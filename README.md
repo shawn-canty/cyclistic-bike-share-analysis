@@ -4,7 +4,9 @@
 
 **Date:** June 2026
 
-<img width="697" height="691" alt="cyclistic_dashboard_static" src="https://github.com/user-attachments/assets/93960317-69bc-4e18-bb7a-8749646f03cf" />
+**📊 Interactive Data Visualization:** [Explore the Cyclistic Tableau Dashboard](https://public.tableau.com/app/profile/shawn.canty/viz/Cyclistic_Rider_Analysis/Cyclistic_Rider_Analysis)
+
+*Note: This dashboard is fully interactive. Click any month on the Annual Seasonality chart to dynamically filter the geographic maps and weekly usage trends.*
 
 ### 1. Business Context & Objective
 Cyclistic, a leading Chicago bike-share network, relies on annual memberships as its main driver of long-term profitability. The Director of Marketing aims to maximize Annual Recurring Revenue (ARR) by converting existing "Casual" riders into "Annual Members" rather than investing heavily in new customer acquisition.
