@@ -4,6 +4,8 @@
 
 **Date:** June 2026
 
+<img width="697" height="691" alt="cyclistic_dashboard_static" src="https://github.com/user-attachments/assets/93960317-69bc-4e18-bb7a-8749646f03cf" />
+
 ### 1. Business Context & Objective
 Cyclistic, a leading Chicago bike-share network, relies on annual memberships as its main driver of long-term profitability. The Director of Marketing aims to maximize Annual Recurring Revenue (ARR) by converting existing "Casual" riders into "Annual Members" rather than investing heavily in new customer acquisition.
 
@@ -27,6 +29,8 @@ This analysis evaluates about 5.9 million first-party operational records logged
 ---
 
 ## Executive Summary
+
+**Strategic Deliverable:** [View the Executive Presentation Deck (PDF)](Cyclistic_Executive_Presentation.pdf)
 
 ### Project Overview
 This analysis evaluated 5.9 million historical Cyclistic bike-share trips to identify key behavioral differences between Casual riders and Annual Members. The objective is to use these insights to design targeted marketing strategies that convert active Casual riders into profitable Annual Members.
