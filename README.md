@@ -32,20 +32,20 @@ This analysis evaluates about 5.9 million first-party operational records logged
 
 ## Executive Summary
 
-**Strategic Deliverable:** [View the Executive Presentation Deck (PDF)](Cyclistic_Executive_Presentation.pdf)
+[View the Executive Presentation Deck (PDF)](Cyclistic_Executive_Presentation.pdf)
 
 ### Project Overview
 This analysis evaluated 5.9 million historical Cyclistic bike-share trips to identify key behavioral differences between Casual riders and Annual Members. The objective is to use these insights to design targeted marketing strategies that convert active Casual riders into profitable Annual Members.
 
 ### Key Behavioral Insights
-* **The Commuter vs. The Tourist:** Annual members display routine commuting behavior, with peak usage mid-week at downtown transit hubs. Conversely, Casual riders behave as tourists and leisure users, with ridership surging on weekends (peaking at over 413,000 casual rides on Saturdays) heavily concentrated at coastal landmarks like Navy Pier.
-* **The Duration Gap:** Casual riders average over 19 minutes per trip, compared to 11.8 minutes for Annual Members. This gap widens to over 22 minutes on Sundays, confirming that Casual users use the network for extended leisure travel, not brief transit.
+* **The Commuter vs. The Tourist:** Annual members display routine commuting behavior, with peak usage mid-week at downtown transit hubs. Conversely, Casual riders behave as tourists and leisure users, with ridership surging on weekends (peaking at over 413,000 casual rides on Saturdays) and heavily concentrated at coastal landmarks like Navy Pier.
+* **The Duration Gap:** Casual riders average over 19 minutes per trip, compared to 11.8 minutes for Annual Members. This gap widens to over 22 minutes on Sundays, confirming that Casual users use the network for extended leisure travel rather than brief transit.
 * **The Fair-Weather Rider:** Casual usage depends heavily on weather, rising to over 323,000 rides in August but dropping below 24,000 in January. Annual members maintain a stronger, consistent baseline throughout winter.
 
 ### Strategic Recommendations
 Given these behavioral divides, standard 12-month commuter memberships will not appeal to Casual users. I recommend the following three-part strategy to drive conversions:
 1. **Launch a "Summer Pass":** Offer a 90-day introductory summer tier aimed at Casual riders. This lowers the financial barrier to entry when their demand is at its peak, creating a warm pipeline for full-year upsells in the fall.
 2. **Target Coastal Stations During Weekend Peaks:** Eliminate broad marketing spend and hyper-focus digital and physical weekend advertising exclusively on the ten busiest coastal stations (e.g., Navy Pier) where Casual ridership is guaranteed.
-3. **Implement a "Weekend Explorer" Perk:** Increase the standard weekend ride time limit for Annual Members from 30 to 45 minutes. This directly addresses the 22-minute average Casual ride, offering them a clear financial incentive to upgrade and avoid overage fees on their long leisure rides.
+3. **Implement a "Weekend Explorer" Perk:** Increase the standard weekend ride time limit for Annual Members from 30 to 45 minutes. This directly addresses the 22-minute average Casual ride, offering a clear financial incentive to upgrade and avoid overage fees on longer leisure rides.
 
 **Next Steps:** Collaborate with the marketing team to model target pricing for the Summer Pass using seasonal volume forecasts to prepare for a late-April launch.
