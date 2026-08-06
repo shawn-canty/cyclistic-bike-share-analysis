@@ -4,7 +4,7 @@
 
 **Date:** June 2026
 
-**Interactive Data Visualization:** [Explore the Cyclistic Tableau Dashboard](https://public.tableau.com/app/profile/shawn.canty/viz/Cyclistic_Rider_Analysis/Cyclistic_Rider_Analysis)
+[Explore the Cyclistic Tableau Dashboard](https://public.tableau.com/app/profile/shawn.canty/viz/Cyclistic_Rider_Analysis/Cyclistic_Rider_Analysis)
 
 *Note: This dashboard is fully interactive. Click any month on the Annual Seasonality chart to dynamically filter the geographic maps and weekly usage trends.*
 
